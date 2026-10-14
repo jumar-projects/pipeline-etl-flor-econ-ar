@@ -1,0 +1,53 @@
+excel_row,original_sector_name,macro_sector_id,macro_sector_name,macro_sector_short,color
+7,"Agricultura, ganaderia, caza y servicios conexos",1,Agropecuario y Pesca,Agro y Pesca,#16A34A
+8,"Silvicultura, extracción de madera y servicios conexos",1,Agropecuario y Pesca,Agro y Pesca,#16A34A
+9,Pesca,1,Agropecuario y Pesca,Agro y Pesca,#16A34A
+10,"Extracción de carbón y lignito; extracción de turba. Extracción de petróleo crudo y gas natural; actividades de servicios relacionadas con la extracción de petróleo y gas, excepto las actividades de prospección.",2,"Minería, Petróleo y Gas",Minería y Energía,#7F1D1D
+11,Extracción de minerales metalíferos. Explotación de  minas y canteras n.c.p.,2,"Minería, Petróleo y Gas",Minería y Energía,#7F1D1D
+12,Elaboración de productos alimenticios y bebidas,3,Industria Manufacturera,Industria,#1D4ED8
+13,Elaboración de productos de tabaco,3,Industria Manufacturera,Industria,#1D4ED8
+14,Fabricación de productos textiles,3,Industria Manufacturera,Industria,#1D4ED8
+15,Fabricación de prendas de vestir; terminación y teñido de pieles,3,Industria Manufacturera,Industria,#1D4ED8
+16,"Curtido y terminación de cueros; fabricación de artículos de marroquinería, talabartería y calzado y de sus partes",3,Industria Manufacturera,Industria,#1D4ED8
+17,"Producción de madera y fabricación de productos de madera y corcho, excepto muebles; fabricación de artículos de paja y de materiales trenzables",3,Industria Manufacturera,Industria,#1D4ED8
+18,Fabricación de papel y de  productos de papel,3,Industria Manufacturera,Industria,#1D4ED8
+19,Edición e impresión; reproducción de grabaciones,3,Industria Manufacturera,Industria,#1D4ED8
+20,"Fabricación de coque, productos de la refinación del petróleo y combustible nuclear",3,Industria Manufacturera,Industria,#1D4ED8
+21,Fabricación de sustancias y productos químicos,3,Industria Manufacturera,Industria,#1D4ED8
+22,Fabricación de productos de caucho y plástico,3,Industria Manufacturera,Industria,#1D4ED8
+23,Fabricación de productos minerales no metálicos,3,Industria Manufacturera,Industria,#1D4ED8
+24,Fabricación de metales comunes,3,Industria Manufacturera,Industria,#1D4ED8
+25,"Fabricación de productos elaborados de metal, excepto maquinaria y equipo",3,Industria Manufacturera,Industria,#1D4ED8
+26,Fabricación de maquinaria y equipo n.c.p.,3,Industria Manufacturera,Industria,#1D4ED8
+27,"Fabricación de maquinaria de oficina, contabilidad e informática",3,Industria Manufacturera,Industria,#1D4ED8
+28,Fabricación de maquinaria y aparatos eléctricos  n.c.p.,3,Industria Manufacturera,Industria,#1D4ED8
+29,"Fabricación de equipos y aparatos de radio, televisión y comunicaciones",3,Industria Manufacturera,Industria,#1D4ED8
+30,"Fabricación de instrumentos médicos, ópticos y de precisión; fabricación de relojes",3,Industria Manufacturera,Industria,#1D4ED8
+31,"Fabricación de vehículos automotores, remolques y semirremolques",3,Industria Manufacturera,Industria,#1D4ED8
+32,Fabricación de equipo de transporte n.c.p.,3,Industria Manufacturera,Industria,#1D4ED8
+33,Fabricación de muebles y colchones; industrias manufactureras n.c.p.,3,Industria Manufacturera,Industria,#1D4ED8
+34,Reciclamiento,3,Industria Manufacturera,Industria,#1D4ED8
+35,"Reparación, mantenimiento e instalación de maquinas y equipos",3,Industria Manufacturera,Industria,#1D4ED8
+36,Generación captación y distribución de energía eléctrica,4,Construcción y Serv. Públicos,Construcción y Serv.,#C2410C
+37,Fabricación de gas ; distribución de combustibles gaseosos por tuberías,4,Construcción y Serv. Públicos,Construcción y Serv.,#C2410C
+38,"Captación , depuración y distribución de agua",4,Construcción y Serv. Públicos,Construcción y Serv.,#C2410C
+39,Construcción,4,Construcción y Serv. Públicos,Construcción y Serv.,#C2410C
+40,"Comercio mayorista, minorista y reparaciones",5,"Comercio, Hoteles y Rest.",Comercio y Turismo,#EAB308
+41,Hoteles; campamentos y otros tipos de hospedaje temporal,5,"Comercio, Hoteles y Rest.",Comercio y Turismo,#EAB308
+42,"Restaurantes, bares y cantinas",5,"Comercio, Hoteles y Rest.",Comercio y Turismo,#EAB308
+43,Transporte,6,Transporte y Comunicaciones,Transporte y Com.,#A78BFA
+44,Comunicaciones,6,Transporte y Comunicaciones,Transporte y Com.,#A78BFA
+45,Intermediación financiera y otros servicios financieros,7,Finanzas e Inmobiliarias,Finanzas e Inm.,#2DD4BF
+46,Servicios de seguros,7,Finanzas e Inmobiliarias,Finanzas e Inm.,#2DD4BF
+47,Servicios auxiliares a la actividad financiera,7,Finanzas e Inmobiliarias,Finanzas e Inm.,#2DD4BF
+48,Propiedad de la vivienda*,7,Finanzas e Inmobiliarias,Finanzas e Inm.,#2DD4BF
+49,Resto,7,Finanzas e Inmobiliarias,Finanzas e Inm.,#2DD4BF
+50,Administración pública y defensa; Planes de seguridad social de afiliación obligatoria,8,Serv. Sociales y Adm. Pública,Sociales y Pública,#BE185D
+51,Enseñanza pública,8,Serv. Sociales y Adm. Pública,Sociales y Pública,#BE185D
+52,Enseñanza privada,8,Serv. Sociales y Adm. Pública,Sociales y Pública,#BE185D
+53,Salud pública,8,Serv. Sociales y Adm. Pública,Sociales y Pública,#BE185D
+54,Salud privada,8,Serv. Sociales y Adm. Pública,Sociales y Pública,#BE185D
+55,"Eliminación de desperdicios y aguas residuales, saneamiento y servicios similares",8,Serv. Sociales y Adm. Pública,Sociales y Pública,#BE185D
+56,Asociaciones,8,Serv. Sociales y Adm. Pública,Sociales y Pública,#BE185D
+57,Servicios culturales y deportivos. Otras actividades,8,Serv. Sociales y Adm. Pública,Sociales y Pública,#BE185D
+58,Servicio doméstico*,8,Serv. Sociales y Adm. Pública,Sociales y Pública,#BE185D
